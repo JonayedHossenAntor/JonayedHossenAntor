@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonayed Hossen Antor</h1>
-<h3 align="center">A passionate Software developer from Dhaka,Bangladesh.</h3>
+<h3 align="center">A passionate Software developer.</h3>
 
 
 
