@@ -3,7 +3,7 @@
 
 
 
-I'm Jonayed Hossen Antor, and I studied at the International University of Business, Agriculture, and Technology in Dhaka, Bangladesh, where I received my degree.
+I'm Jonayed Hossen Antor, studying at the Schmalkalden University of Applied Sciences in Thuringia, Germany, where I received my degree.
 
 Right now, I'm working to establish my reputation as a software developer. I've used Python for a few years now. I gave Django a try for a while. I've now made a complete switch to the software development and application industry. Attempting to learn the new technology of the twenty first century. 
 
@@ -12,7 +12,7 @@ Right now, I'm working to establish my reputation as a software developer. I've 
 
 - 💬 Ask me about **JS, Django**
 
-- 📫 How to reach me **jhantor27@gmail.com**
+- 📫 How to reach me **jonayedhossenantor@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
